@@ -2,7 +2,7 @@
 > Smart contract by ink!
 
 ## What does it do?
-Exactly copy the functionality implemented by the substrate node(VoiceBan Backend)
+An example project to show how to write an ink! smart contract and deploy it to a substrate node.
 
 ## How to compile
 Run `cargo contract build --release`
